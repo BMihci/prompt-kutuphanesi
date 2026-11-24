@@ -15,6 +15,7 @@ Türkçe, Claude ve benzeri sohbet tabanlı modellerle denenmiştir.
 | 03 | [Push öncesi gizli bilgi taraması](prompts/03-gizli-bilgi-taramasi.md) | Herkese açık depoya yüklemeden önce şifre, anahtar ve kişisel veriyi buldurur; temiz kopya hazırlatır. |
 | 04 | [Botla oyun ve uygulama denetimi](prompts/04-botla-oyun-denetimi.md) | Oyunu ya da uygulamayı otomatik test botuna oynatıp hataları ölçülmüş bir raporla çıkarır. |
 | 05 | [Haftalık iş planı çıkarma](prompts/05-haftalik-plan.md) | Projeleri ve ayırabildiğin zamanı günlere bölünmüş, bitirilebilir bir plana çevirir. |
+| 06 | [Tek dosya web uygulaması](prompts/06-tek-dosya-web-uygulamasi.md) | Sunucusuz, telefonda uygulama gibi çalışan, internetsiz açılan küçük bir araç yazdırır. |
 
 Yeni promptlar haftalık olarak eklenir.
 
