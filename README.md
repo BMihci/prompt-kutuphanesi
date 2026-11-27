@@ -16,6 +16,7 @@ Türkçe, Claude ve benzeri sohbet tabanlı modellerle denenmiştir.
 | 04 | [Botla oyun ve uygulama denetimi](prompts/04-botla-oyun-denetimi.md) | Oyunu ya da uygulamayı otomatik test botuna oynatıp hataları ölçülmüş bir raporla çıkarır. |
 | 05 | [Haftalık iş planı çıkarma](prompts/05-haftalik-plan.md) | Projeleri ve ayırabildiğin zamanı günlere bölünmüş, bitirilebilir bir plana çevirir. |
 | 06 | [Tek dosya web uygulaması](prompts/06-tek-dosya-web-uygulamasi.md) | Sunucusuz, telefonda uygulama gibi çalışan, internetsiz açılan küçük bir araç yazdırır. |
+| 07 | [Hata mı, test mi? Hata ayıklatma](prompts/07-hata-mi-test-mi.md) | Başarısız bir testte önce yeniden ürettirir, nedeni sınıflandırır, en küçük doğru düzeltmeyi yaptırır. |
 
 Yeni promptlar haftalık olarak eklenir.
 
